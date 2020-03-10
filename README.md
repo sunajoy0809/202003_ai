@@ -38,25 +38,25 @@
 
 #### 6. git Bash(terminal)에서 명어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다.
 
-- 첫번째, git 설정하기
+- 첫번째, 바탕화면으로 이동하기 (cd 이동하고싶은폴더명)
+     <blockquote> cd desktop </blockquote>
+
+- 두번째, 바탕화면에 폴더 만들기 (mkdir 만들고싶은폴더명)
+     <blockquote> mkdir playdata </blockquote>
+
+- 세번째, 생성한 폴더로 이동하기
+     <blockquote> cd playdata </blockquote>
+
+- 네번째, 내가 만든 폴더 내에 github에 있는 파일을 복사하기
+     <blockquote> git clone 복사한 주소 </blockquote>
+
+- 다섯번째, 복사된 폴더로 들어가기
+     <blockquote> cd 202003_ai </blockquote>
+
+- 여섯번째, 이메일과 이름 
      <blockquote> git config --global user.email "내 이메일작성" </blockquote>
      <blockquote> git config --global user.name "내 이름작성" </blockquote>
 ![User_Config](images/cap_config.png)    
-
-- 두번째, 바탕화면으로 이동하기 (cd 이동하고싶은폴더명)
-     <blockquote> cd desktop </blockquote>
-
-- 세번째, 바탕화면에 폴더 만들기 (mkdir 만들고싶은폴더명)
-     <blockquote> mkdir playdata </blockquote>
-
-- 네번째, 생성한 폴더로 이동하기
-     <blockquote> cd playdata </blockquote>
-
-- 다섯번째, 내가 만든 폴더 내에 github에 있는 파일을 복사하기
-     <blockquote> git clone 복사한 주소 </blockquote>
-
-- 여섯번째, 복사된 폴더로 들어가기
-     <blockquote> cd 202003_ai </blockquote>
 
 ![Terminal_1](images/terminal_01.png)
 <br/><br/>
