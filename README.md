@@ -53,7 +53,7 @@
 - 다섯번째, 복사된 폴더로 들어가기
      <blockquote> cd 202003_ai </blockquote>
 
-![Terminal_1](images/terminal_01.PNG)
+![Terminal_1](images/terminal_01.)
 <br/><br/>
 
 #### 7. 이제 pycharm을 실행해 문제를 확인하고 과제를 해결합니다. 
