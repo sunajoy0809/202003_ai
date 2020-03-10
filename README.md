@@ -75,7 +75,7 @@ cd Desktop/<br/>
 #### 7. 이제 pycharm을 실행해 문제를 확인하고 과제를 해결합니다. 
 <br/><br/>
 
-# 아래는 과제를 하고 내 컴퓨터에 있는 파일을 github로 옮기는 작업입니다.
+# [내 컴퓨터에서 github로 업로드하기]
 
 #### 먼저 Git에 대해 간단히 알아보겠습니다.
 #### 깃은 아래와 같은 흐름으로 이루어져 있습니다.
@@ -125,11 +125,13 @@ cd Desktop/<br/>
 <blockquote> git puch origin master </blockquote>
 <br/>
 
-#### 2. GitHub에서 repository에 업데이트 된 내역을 확인하세요. 
+#### 5. GitHub에서 repository에 업데이트 된 내역을 확인하세요. (사진 넣어주세요!!!)
 <br/>
 
-#### 3. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request' -> 'Create Pull Request' 버튼을 클릭합니다. 
+# [내 github에서 playdata github로 Pull Request 요청하기(과제제출하기)]
+
+#### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request' -> 'Create Pull Request' 버튼을 클릭합니다. (사진 넣어주세요!!!)
 <br/>
 
-#### 4. 제목에 과정명과 이름을 쓰고 'Create Pull Request'를 클릭합니다. 
+#### 2. 제목에 과정명과 이름을 쓰고 'Create Pull Request'를 클릭합니다. (사진 넣어주세요!!!)
 <br/>
