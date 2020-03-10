@@ -46,29 +46,27 @@ cd Desktop/<br/>
 <br/>
 
 바탕화면에 폴더 만들기 (mkdir 만들고싶은폴더명)<br/>
-<blockquote>
-mkdir playdata<br/>
-</blockquote>
+<blockquote> mkdir playdata<br/> </blockquote>
 <br/>
 
 생성한 폴더로 이동 <br/>
-cd playdata/<br/>
+<blockquote> cd playdata/<br/> </blockquote>
 <br/>
 
 내가 만든 폴더 내에 github에 있는 파일을 복사하기 <br/>
-git clone (복사한 주소)<br/>
+<blockquote> git clone (복사한 주소)<br/> </blockquote>
 <br/>
 
 잘 복사되었는지 확인하기<br/>
-ls <br/>
+<blockquote> ls <br/> </blockquote>
 <br/>
 
 복사된 폴더로 들어가기<br/>
-cd (폴더명)<br/>
+<blockquote> cd (폴더명)<br/> </blockquote>
 <br/>
 
 에디터 실행하기<br/>
-code .<br/>
+<blockquote> code .<br/> </blockquote>
 
 ![Terminal_1](images/terminal_1.jpg)
 <br/><br/>
@@ -97,32 +95,39 @@ code .<br/>
 ### 여러분은 위에서 이미 내 repository에 202003_ai를 fork해서 내 컴퓨터에 clone까지 완료된 상황입니다.
 ### 이제 내가 만든 파일을 나의 github에 업로드를 해보겠습니다. 일단은 쭉 따라해보세요!
 
-#### 1. 10번까지 문제를 풀고 현재 상황을 저장해보겠습니다. 
-터미널에 아래 명령어를 입력하세요. <br/>
-git status<br/>
+#### 1. 먼저, pycharm으로 gitTest.py를 만들어 저장합니다.
 <br/><br/>
 
-#### 2. git status를 입력하면 변경된 사항들을 확인할 수 있습니다. 
+#### 2. gitTest.py에는 다음과 같이 입력 후 저장합니다.
+<blockquote> print("hello github!") </blockquote>
+<br/><br/>
 
-#### 3. 로컬 repo에 과제 올리기 
-git add <file name>
-  <br/>
+#### 3. gitTest.py가 있는 폴더에서 "git status"를 입력합니다.
+- git status 명령어는 로컬저장소의 상태를 확인할 수 있습니다.
+(사진 넣어주세요!!!)
+<br/><br/>
 
-#### 4. 커밋하기 
-git commit -m "전달하고 싶은 메시지" <br/>
-<br/>
+#### 4. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 업로드를 해보겠습니다.
 
-이런식으로 문제를 하나씩 풀때마다 커밋을 통해 변경된 사항을 저장해주세요. <br/>
-<br/>
+- 먼저 내가 만든 파일을 index 하겠습니다.
+- 참고로 gitTest.py 대신에 * 을 쓰게 되면 모든 변경된 파일을 index할 수 있습니다.
+<blockquote> git add gitTest.py </blockquote>
 
-# 3. 최종 제출하기 
+- 다시한번 git status로 로컬저장소의 상태를 확인해봅니다.
 
-#### 1. 자신의 repo에 변경된 사항을 업데이트합니다. 
-git push origin master
-<br/>
+- 다음은 index된 파일을 commit하여 local repository에 기록하겠습니다.
+- 참고로 -m은 commit할 때 메시지를 남기기위해 사용하는 추가명령어 입니다.
+<blockquote> git commit -m "처음 하는 깃" </blockquote>
+
+- 여기까지 잘 오셨다면, 이제 내 온라인 github에 한번 업로드해보겠습니다.
+<blockquote> git puch origin master </blockquote>
+<br/><br/>
 
 #### 2. GitHub에서 repository에 업데이트 된 내역을 확인하세요. 
+<br/><br/>
 
 #### 3. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request' -> 'Create Pull Request' 버튼을 클릭합니다. 
+<br/><br/>
 
 #### 4. 제목에 과정명과 이름을 쓰고 'Create Pull Request'를 클릭합니다. 
+<br/><br/>
