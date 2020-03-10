@@ -110,22 +110,18 @@
 
 - 첫번째, 먼저 내가 만든 파일을 index 하겠습니다.
 ![cap7](images/cap7.PNG)
-     <blockquote> git add gitTest.py </blockquote>
 <br/>
 
 - 두번째, 다시한번 git status로 로컬저장소의 상태를 확인해봅니다.
 ![cap10](images/cap10.PNG)
-     <blockquote> git status </blockquote>
 <br/>
 
 - 세번째, 다음은 index된 파일을 commit하여 local repository에 기록하겠습니다.
 ![cap8](images/cap8.PNG)
-     <blockquote> git commit -m "메세지를 입력해주세요" </blockquote>
 <br/>
 
 - 네번째, 여기까지 잘 오셨다면, 이제 내 온라인 github에 한번 업로드해보겠습니다.
 ![push](images/push.PNG)
-     <blockquote> git puch origin master </blockquote>
 <br/>
 
 - 다섯번째, 내 GitHub로 가서 repository에 업데이트 된 내역을 확인해보세요.
