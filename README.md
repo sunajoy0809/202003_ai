@@ -89,18 +89,18 @@
 ![cap4](images/cap4.PNG)
 <br/>
 
-#### 2. gitTest.py에는 다음과 같이 입력 후 저장(ctrl+s)합니다. (사진 넣어주세요!!!)
+#### 2. gitTest.py에는 다음과 같이 입력 후 저장(ctrl+s)합니다.
 ![cap5](images/cap5.PNG)
 <blockquote> print("hello github!") </blockquote>
 <br/>
 
-#### 3. gitTest.py가 있는 폴더에서 "git status"를 입력합니다. (사진 넣어주세요!!!)
+#### 3. gitTest.py가 있는 폴더에서 "git status"를 입력합니다.
 ![cap6](images/cap6.png)
 - cd 자신의이름 폴더명
 - git status 명령어는 로컬저장소의 상태를 확인할 수 있습니다.
 <br/>
 
-#### 4. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 업로드를 해보겠습니다. (각 번호별로 사진 넣어주세요!!!)
+#### 4. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 업로드를 해보겠습니다.
 
 - 첫번째, 먼저 내가 만든 파일을 index 하겠습니다.
 ![cap7](images/cap7.PNG)
@@ -122,11 +122,15 @@
      <blockquote> git puch origin master </blockquote>
 <br/>
 
-- 다섯번째, 내 GitHub로 가서 repository에 업데이트 된 내역을 확인해보세요. (사진 넣어주세요!!!)
+- 다섯번째, 내 GitHub로 가서 repository에 업데이트 된 내역을 확인해보세요.
 ![your reposi](images/your reposi.PNG)
+
 ![202003_ai](images/202003_ai.PNG)
+
 ![your reposi](images/your reposi.PNG)
+
 ![myfolder](images/myfolder.PNG)
+
 ![upload](images/upload.PNG)
 <br/>
 <br/>
