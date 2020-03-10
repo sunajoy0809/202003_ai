@@ -56,8 +56,7 @@
 - 여섯번째, 이메일과 이름 
      <blockquote> git config --global user.email "내 이메일작성" </blockquote>
      <blockquote> git config --global user.name "내 이름작성" </blockquote>
-![Terminal_1](images/terminal_01.png)
-![User_Config](images/cap_config.png)    
+![setting](images/setting.png)    
 <br/><br/>
 
 
