@@ -124,7 +124,7 @@
 <br/>
 
 - 다섯번째, 내 GitHub로 가서 repository에 업데이트 된 내역을 확인해보세요.
-![your_reposi](images/your reposi.PNG)
+![your_reposi](images/your_reposi.PNG)
 
 ![202003_ai](images/202003_ai.PNG)
 
@@ -134,7 +134,7 @@
 <br/>
 <br/>
 
-# [playdata github로 Pull Request 요청하기 (퀴즈 답 제출하기)]
+# [playdata로 Pull Request 요청하기 (퀴즈 답 제출하기)]
 
 #### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request'->'Create Pull Request' 버튼을 클릭합니다.
 ![pull_request](images/pull_request.png)
