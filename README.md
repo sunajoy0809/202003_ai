@@ -95,21 +95,21 @@ cd Desktop/<br/>
 ### 여러분은 위에서 이미 내 repository에 202003_ai를 fork해서 내 컴퓨터에 clone까지 완료된 상황입니다.
 ### 이제 내가 만든 파일을 나의 github에 업로드를 해보겠습니다. 일단은 쭉 따라해보세요!
 
-#### 1. 먼저, pycharm으로 gitTest.py를 만들어 저장합니다.
-<br/><br/>
+#### 1. 먼저, pycharm으로 gitTest.py를 만들어 저장합니다. (사진 넣어주세요!!!)
+<br/>
 
-#### 2. gitTest.py에는 다음과 같이 입력 후 저장합니다.
+#### 2. gitTest.py에는 다음과 같이 입력 후 저장합니다. (사진 넣어주세요!!!)
 <blockquote> print("hello github!") </blockquote>
-<br/><br/>
+<br/>
 
-#### 3. gitTest.py가 있는 폴더에서 "git status"를 입력합니다.
+#### 3. gitTest.py가 있는 폴더에서 "git status"를 입력합니다. (사진 넣어주세요!!!)
 - git status 명령어는 로컬저장소의 상태를 확인할 수 있습니다.
-(사진 넣어주세요!!!)
-<br/><br/>
+<br/>
 
-#### 4. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 업로드를 해보겠습니다.
+#### 4. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 업로드를 해보겠습니다. (사진 넣어주세요!!!)
 
 - 먼저 내가 만든 파일을 index 하겠습니다.
+
 - 참고로 gitTest.py 대신에 * 을 쓰게 되면 모든 변경된 파일을 index할 수 있습니다.
 <blockquote> git add gitTest.py </blockquote>
 
@@ -121,13 +121,13 @@ cd Desktop/<br/>
 
 - 여기까지 잘 오셨다면, 이제 내 온라인 github에 한번 업로드해보겠습니다.
 <blockquote> git puch origin master </blockquote>
-<br/><br/>
+<br/>
 
 #### 2. GitHub에서 repository에 업데이트 된 내역을 확인하세요. 
-<br/><br/>
+<br/>
 
 #### 3. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request' -> 'Create Pull Request' 버튼을 클릭합니다. 
-<br/><br/>
+<br/>
 
 #### 4. 제목에 과정명과 이름을 쓰고 'Create Pull Request'를 클릭합니다. 
-<br/><br/>
+<br/>
