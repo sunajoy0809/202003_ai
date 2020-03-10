@@ -42,29 +42,28 @@
 #### 6. terminal에서 명렬어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다.
 
 - 첫번째, 바탕화면으로 이동하기 (cd 이동하고싶은폴더명)
-     <blockquote> cd Desktop/ </blockquote> <br/>
+     <blockquote> cd Desktop/ </blockquote>
 
 - 두번째, 바탕화면에 폴더 만들기 (mkdir 만들고싶은폴더명)
-     <blockquote> mkdir playdata </blockquote> <br/>
+     <blockquote> mkdir playdata </blockquote>
 
 - 세번째, 생성한 폴더로 이동하기
-     <blockquote> cd playdata/ </blockquote> <br/>
+     <blockquote> cd playdata/ </blockquote>
 
 - 네번째, 내가 만든 폴더 내에 github에 있는 파일을 복사하기
-     <blockquote> git clone (복사한 주소) </blockquote> <br/>
+     <blockquote> git clone (복사한 주소) </blockquote>
 
 - 다섯번째, 잘 복사되었는지 확인하기
-     <blockquote> ls </blockquote> <br/>
+     <blockquote> ls </blockquote>
 
 - 여섯번째, 복사된 폴더로 들어가기
-     <blockquote> cd (폴더명) </blockquote> <br/>
+     <blockquote> cd (폴더명) </blockquote>
 
 - 일곱번째, 에디터 실행하기
      <blockquote> code . </blockquote>
 
 ![Terminal_1](images/terminal_1.jpg)
 <br/><br/>
-
 
 #### 7. 이제 pycharm을 실행해 문제를 확인하고 과제를 해결합니다. 
 <br/><br/>
