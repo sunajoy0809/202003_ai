@@ -81,9 +81,10 @@
 
 #### 우선 pycharm을 키고 open을 눌러 C:\Users\자신의컴퓨터명\Desktop\playdata ok 버튼을 누른다.
 #### 왼쪽 폴더 리스트에서 자신의 이름 폴더를 찾은 후 아래 순서대로 진행하면 됩니다.
+
+#### 1. 먼저, pycharm으로 gitTest.py를 만들어 저장합니다.
 ![open](images/cap1.PNG)
 ![folderlist1](images/cap2.PNG)
-#### 1. 먼저, pycharm으로 gitTest.py를 만들어 저장합니다.
 ![cap3](images/cap3.PNG)
 ![cap4](images/cap4.PNG)
 <br/>
@@ -94,7 +95,7 @@
 <br/>
 
 #### 3. gitTest.py가 있는 폴더에서 "git status"를 입력합니다. (사진 넣어주세요!!!)
-![cap6](images/cap6.PNG)
+![cap6](images/cap6.png)
 - cd 자신의이름 폴더명
 - git status 명령어는 로컬저장소의 상태를 확인할 수 있습니다.
 <br/>
