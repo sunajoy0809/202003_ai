@@ -4,8 +4,8 @@
 ##### 진행 순서는 다음과 같습니다.
 1. python 설치
 2. pycharm(IDE) 설치
-3. github 회원 가입
-4. git bash 설치
+3. git 설치
+4. github 회원 가입
 5. github내 encore-playdata/202003_ai의 repository를 Clone하기
 6. 과제작성 후 pull request하기
 
