@@ -87,6 +87,9 @@
 - git을 좀 더 깊이 사용하고 싶다면 https://www.opentutorials.org/course/2708 이곳에서 공부하셔도 좋습니다.
 - 나중에 git 사용법은 특강이 있을 예정이니 너무 걱정마세요!
 
+#### 우선 pycharm을 키고 open을 눌러 C:\Users\자신의컴퓨터명\Desktop\playdata ok 버튼을 누른다.
+#### 왼쪽 폴더 리스트에서 자신의 이름 폴더를 찾은 후 아래 순서대로 진행하면 됩니다.
+
 #### 1. 먼저, pycharm으로 gitTest.py를 만들어 저장합니다. (사진 넣어주세요!!!)
 <br/>
 
