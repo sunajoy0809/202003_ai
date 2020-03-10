@@ -19,21 +19,21 @@
 <br/>
 
 #### 2. 우측상단의 'Fork' 버튼을 클릭해주세요.
-![Fork](images/fork.jpg)
+![Fork](images/fork.png)
 <br/><br/>
 
 #### 3. 'Fork' 버튼을 클릭하면 플레이데이터의 repository를 내 repository로 가져올 수 있습니다.
-![Start](images/start.jpg)
+![Start](images/start.png)
 <br/><br/>
 
 #### 4. 이제 플레이데이터의 프로젝트를 내 로컬환경으로 clone하겠습니다.
 우측에 'clone or download' 초록색 버튼을 클릭하고 주소를 복사합니다. 
 
-![Clone](images/cloning.jpg)
+![Clone](images/cloning.png)
 <br/><br/>
 
 #### 5. 로컬 환경으로 돌아가 git Bash(terminal)를 실행합니다. 
-![Gitbash](images/gitbash.jpg)
+![Gitbash](images/gitbash.png)
 <br/><br/>
 
 #### 6. git Bash(terminal)에서 명렬어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다.
@@ -56,7 +56,7 @@
 - 여섯번째, 복사된 폴더로 들어가기
      <blockquote> cd (폴더명) </blockquote>
 
-![Terminal_1](images/terminal_1.jpg)
+![Terminal_1](images/terminal_1.png)
 <br/><br/>
 
 #### 7. 이제 pycharm을 실행해 문제를 확인하고 과제를 해결합니다. 
