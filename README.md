@@ -15,28 +15,28 @@
 
 # [과제 가져오기] 
 
-#### 1. Github 회원가입을 아직 하지 않은 분들은 회원가입을 먼저 해주세요. 
+#### 1. Github 회원가입을 아직 하지 않은 분들은 우측 상단에서 회원가입을 먼저 해주세요. 
 <br/>
 
-#### 2. 우측상단의 'Fork' 버튼을 클릭해주세요. !!!!!!!사진 변경!!!!!!!
-![Fork](images/fork.jpg)
+#### 2. 우측상단의 'Fork' 버튼을 클릭해주세요.
+![Fork](images/fork.PNG)
 <br/><br/>
 
-#### 3. 'Fork' 버튼을 클릭하면 다른 사람의 repo를 내 계정으로 가져올 수 있습니다. !!!!!!!사진 변경!!!!!!!
-![Start](images/start.jpg)
+#### 3. 'Fork' 버튼을 클릭하면 플레이데이터의 repository를 내 repository로 가져올 수 있습니다.
+![Start](images/start.PNG)
 <br/><br/>
 
-#### 4. 이제 프로젝트를 내 로컬환경으로 clone하겠습니다. !!!!!!!사진을 변경해주세요!!!!!!!
-'clone or download' 버튼을 클릭하고 주소를 복사합니다. 
+#### 4. 이제 플레이데이터의 프로젝트를 내 로컬환경으로 clone하겠습니다.
+우측에 'clone or download' 초록색 버튼을 클릭하고 주소를 복사합니다. 
 
-![Clone](images/cloning.jpg)
+![Clone](images/cloning.PNG)
 <br/><br/>
 
-#### 5. 로컬 환경으로 돌아가 terminal(git bash 등)을 킵니다. 
-![Gitbash](images/bash.jpg)
+#### 5. 로컬 환경으로 돌아가 git Bash(terminal)를 실행합니다. 
+![Gitbash](images/gitbash.png)
 <br/><br/>
 
-#### 6. terminal에서 명렬어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다.
+#### 6. git Bash(terminal)에서 명렬어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다.
 
 - 첫번째, 바탕화면으로 이동하기 (cd 이동하고싶은폴더명)
      <blockquote> cd Desktop/ </blockquote>
@@ -56,10 +56,7 @@
 - 여섯번째, 복사된 폴더로 들어가기
      <blockquote> cd (폴더명) </blockquote>
 
-- 일곱번째, 에디터 실행하기
-     <blockquote> code . </blockquote>
-
-![Terminal_1](images/terminal_1.jpg)
+![Terminal_1](images/terminal_1.PNG)
 <br/><br/>
 
 #### 7. 이제 pycharm을 실행해 문제를 확인하고 과제를 해결합니다. 
