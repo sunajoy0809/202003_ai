@@ -114,6 +114,7 @@ cd Desktop/<br/>
      <blockquote> git add gitTest.py </blockquote>
 
 - 두번째, 다시한번 git status로 로컬저장소의 상태를 확인해봅니다.
+     <blockquote> git status </blockquote>
 
 - 세번째, 다음은 index된 파일을 commit하여 local repository에 기록하겠습니다.
      <blockquote> git commit -m "메세지를 입력해주세요" </blockquote>
