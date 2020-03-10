@@ -116,7 +116,7 @@
 # [playdata github로 Pull Request 요청하기 (퀴즈 답 제출하기)]
 
 #### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request'->'Create Pull Request' 버튼을 클릭합니다.
-![Pull_request](images/Pull_request.png)
+![pull_request](images/pull_request.png)
 <br/> 
 ![Create_Pull_request](images/Create_Pull_request.png)
 <br/> 
