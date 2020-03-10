@@ -84,37 +84,54 @@
 - git을 좀 더 깊이 사용하고 싶다면 https://www.opentutorials.org/course/2708 이곳에서 공부하셔도 좋습니다.
 - 나중에 git 사용법은 특강이 있을 예정이니 너무 걱정마세요!
 
-#### 1. 먼저, pycharm으로 gitTest.py를 만들어 저장합니다. (사진 넣어주세요!!!)
+#### 우선 pycharm을 키고 open을 눌러 C:\Users\자신의컴퓨터명\Desktop\playdata ok 버튼을 누른다.
+#### 왼쪽 폴더 리스트에서 자신의 이름 폴더를 찾은 후 아래 순서대로 진행하면 됩니다.
+![open](images/cap1.PNG)
+![folderlist1](images/cap2.PNG)
+#### 1. 먼저, pycharm으로 gitTest.py를 만들어 저장합니다.
+(images/cap3.PNG)
+(images/cap4.PNG)
 <br/>
 
-#### 2. gitTest.py에는 다음과 같이 입력 후 저장합니다. (사진 넣어주세요!!!)
+#### 2. gitTest.py에는 다음과 같이 입력 후 저장(ctrl+s)합니다. (사진 넣어주세요!!!)
+(images/cap5.PNG)
 <blockquote> print("hello github!") </blockquote>
 <br/>
 
 #### 3. gitTest.py가 있는 폴더에서 "git status"를 입력합니다. (사진 넣어주세요!!!)
+(images/cap6.PNG)
+- cd 자신의이름 폴더명
 - git status 명령어는 로컬저장소의 상태를 확인할 수 있습니다.
 <br/>
 
 #### 4. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 업로드를 해보겠습니다. (각 번호별로 사진 넣어주세요!!!)
 
 - 첫번째, 먼저 내가 만든 파일을 index 하겠습니다.
+(images/cap7.PNG)
      <blockquote> git add gitTest.py </blockquote>
 <br/>
 
 - 두번째, 다시한번 git status로 로컬저장소의 상태를 확인해봅니다.
+(images/cap10.PNG)
      <blockquote> git status </blockquote>
 <br/>
 
 - 세번째, 다음은 index된 파일을 commit하여 local repository에 기록하겠습니다.
+(images/cap8.PNG)
      <blockquote> git commit -m "메세지를 입력해주세요" </blockquote>
 <br/>
 
 - 네번째, 여기까지 잘 오셨다면, 이제 내 온라인 github에 한번 업로드해보겠습니다.
+(images/push.PNG)
      <blockquote> git puch origin master </blockquote>
 <br/>
 
 - 다섯번째, 내 GitHub로 가서 repository에 업데이트 된 내역을 확인해보세요. (사진 넣어주세요!!!)
-
+(images/your reposi.PNG)
+(images/202003_ai.PNG)
+(images/your reposi.PNG)
+(images/myfolder.PNG)
+(images/upload.PNG)
 <br/>
 <br/>
 
