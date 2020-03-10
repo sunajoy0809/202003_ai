@@ -106,20 +106,17 @@ cd Desktop/<br/>
 - git status 명령어는 로컬저장소의 상태를 확인할 수 있습니다.
 <br/>
 
-#### 4. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 업로드를 해보겠습니다. (사진 넣어주세요!!!)
+#### 4. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 업로드를 해보겠습니다. (각 번호별로 사진 넣어주세요!!!)
 
-- 먼저 내가 만든 파일을 index 하겠습니다.
-
-- 참고로 gitTest.py 대신에 * 을 쓰게 되면 모든 변경된 파일을 index할 수 있습니다.
+1. 먼저 내가 만든 파일을 index 하겠습니다 (참고로 gitTest.py 대신에 * 을 쓰게 되면 모든 변경된 파일을 index할 수 있습니다)
 <blockquote> git add gitTest.py </blockquote>
 
-- 다시한번 git status로 로컬저장소의 상태를 확인해봅니다.
+2. 다시한번 git status로 로컬저장소의 상태를 확인해봅니다.
 
-- 다음은 index된 파일을 commit하여 local repository에 기록하겠습니다.
-- 참고로 -m은 commit할 때 메시지를 남기기위해 사용하는 추가명령어 입니다.
+3. 다음은 index된 파일을 commit하여 local repository에 기록하겠습니다 (참고로 -m은 commit할 때 메시지를 남기기위해 사용하는 추가명령어 입니다)
 <blockquote> git commit -m "처음 하는 깃" </blockquote>
 
-- 여기까지 잘 오셨다면, 이제 내 온라인 github에 한번 업로드해보겠습니다.
+4. 여기까지 잘 오셨다면, 이제 내 온라인 github에 한번 업로드해보겠습니다.
 <blockquote> git puch origin master </blockquote>
 <br/>
 
