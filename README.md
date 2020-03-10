@@ -1,7 +1,7 @@
 ##### 안녕하세요 플레이데이터입니다. 
-##### 2020년 3월 교육과정 수강생들의 사전교육을 위한 repository(=repo)입니다.
+##### 2020년 3월 교육과정 수강생 여러분의 사전교육을 위한 repository(=repo)입니다.
 
-##### 대략적인 순서는 다음과 같습니다.
+##### 진행 순서는 다음과 같습니다.
 1. python 설치
 2. pycharm(IDE) 설치
 3. github 회원 가입
@@ -9,11 +9,9 @@
 5. github내 encore-playdata/202003_ai의 repository를 Clone하기
 6. 과제작성 후 pull request하기
 
-##### pull request 해주시면 확인 후 업데이트 해드립니다.
-##### 처음엔 git을 사용하는 방법이 생소하겠지만, 실무에서 꼭 필요한 도구이니 많이 사용해보시기를 권장드립니다.
-
-<br/>
-<br/>
+##### 플레이데이터 깃허브에 pull request 해주시면 확인 후 업데이트 해드립니다.
+##### 처음엔 git을 사용하는 방법이 생소하겠지만, 실무에서 꼭 필요한 도구이니 많이 사용해보시기 바랍니다.
+<br/><br/>
 
 # [과제 가져오기] 
 
@@ -62,14 +60,10 @@
      <blockquote> code . </blockquote>
 
 ![Terminal_1](images/terminal_1.jpg)
-
-<br/>
-<br/>
+<br/><br/>
 
 #### 7. 이제 pycharm을 실행해 문제를 확인하고 과제를 해결합니다. 
-
-<br/>
-<br/>
+<br/><br/>
 
 # [내 컴퓨터에서 github로 업로드하기]
 
@@ -122,7 +116,7 @@
      <blockquote> git puch origin master </blockquote>
 <br/>
 
-- 다섯번째, GitHub에서 repository에 업데이트 된 내역을 확인하세요. (사진 넣어주세요!!!)
+- 다섯번째, 내 GitHub로 가서 repository에 업데이트 된 내역을 확인해보세요. (사진 넣어주세요!!!)
 
 <br/>
 <br/>
