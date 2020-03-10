@@ -16,7 +16,7 @@
 # [과제 가져오기] 
 
 #### 1. Github 회원가입을 아직 하지 않은 분들은 우측 상단에서 회원가입을 먼저 해주세요. 
-<br/>
+<br/><br/>
 
 #### 2. 우측상단의 'Fork' 버튼을 클릭해주세요.
 ![Fork](images/fork.PNG)
@@ -59,7 +59,6 @@
 ![setting](images/setting.png)    
 <br/><br/>
 
-
 # [내 컴퓨터에서 github로 업로드하기]
 
 #### 먼저 Git에 대해 간단히 알아보겠습니다.
@@ -81,6 +80,8 @@
 - 아직은 무슨말인지 잘 이해가 안가실텐데요, 아래 적혀있는대로 따라해보면서 간단하게 사용법만 익히셔도 좋습니다.
 - git을 좀 더 깊이 사용하고 싶다면 https://www.opentutorials.org/course/2708 이곳에서 공부하셔도 좋습니다.
 - 나중에 git 사용법은 특강이 있을 예정이니 너무 걱정마세요!
+
+<br/>
 
 #### 1. 우선 pycharm을 키고 open을 눌러 C:\Users\자신의컴퓨터명\Desktop\playdata ok 버튼을 누른다.
 ![open](images/cap1.PNG)
