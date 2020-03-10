@@ -93,12 +93,9 @@ cd Desktop/<br/>
 
 <br/>
 
-- 아직은 무슨말인지 잘 이해가 안가실텐데요, 아래 적혀있는대로 따라해보면서 고민도 하고, 찾아보았으면 좋겠습니다.
-- 상세한 내용은 https://www.opentutorials.org/course/2708 이곳에서 공부하셔도 좋습니다.
+- 아직은 무슨말인지 잘 이해가 안가실텐데요, 아래 적혀있는대로 따라해보면서 간단하게 사용법만 익히셔도 좋습니다.
+- git을 좀 더 깊이 사용하고 싶다면 https://www.opentutorials.org/course/2708 이곳에서 공부하셔도 좋습니다.
 - 나중에 git 사용법은 특강이 있을 예정이니 너무 걱정마세요!
-
-### 여러분은 위에서 이미 내 repository에 202003_ai를 fork해서 내 컴퓨터에 clone까지 완료된 상황입니다.
-### 이제 내가 만든 파일을 나의 github에 업로드를 해보겠습니다. 일단은 쭉 따라해보세요!
 
 #### 1. 먼저, pycharm으로 gitTest.py를 만들어 저장합니다. (사진 넣어주세요!!!)
 <br/>
@@ -128,7 +125,7 @@ cd Desktop/<br/>
 #### 5. GitHub에서 repository에 업데이트 된 내역을 확인하세요. (사진 넣어주세요!!!)
 <br/>
 
-# [내 github에서 playdata github로 Pull Request 요청하기(과제제출하기)]
+# [playdata github로 Pull Request 요청하기 (과제제출하기)]
 
 #### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request' -> 'Create Pull Request' 버튼을 클릭합니다. (사진 넣어주세요!!!)
 <br/>
