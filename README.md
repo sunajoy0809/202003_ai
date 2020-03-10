@@ -39,28 +39,23 @@
 #### 6. git Bash(terminal)에서 명렬어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다.
 
 - 첫번째, 바탕화면으로 이동하기 (cd 이동하고싶은폴더명)
-     <blockquote> cd Desktop/ </blockquote>
+     <blockquote> cd desktop </blockquote>
 
 - 두번째, 바탕화면에 폴더 만들기 (mkdir 만들고싶은폴더명)
      <blockquote> mkdir playdata </blockquote>
 
 - 세번째, 생성한 폴더로 이동하기
-     <blockquote> cd playdata/ </blockquote>
+     <blockquote> cd playdata </blockquote>
 
 - 네번째, 내가 만든 폴더 내에 github에 있는 파일을 복사하기
-     <blockquote> git clone (복사한 주소) </blockquote>
+     <blockquote> git clone 복사한 주소 </blockquote>
 
-- 다섯번째, 잘 복사되었는지 확인하기
-     <blockquote> ls </blockquote>
+- 다섯번째, 복사된 폴더로 들어가기
+     <blockquote> cd 202003_ai </blockquote>
 
-- 여섯번째, 복사된 폴더로 들어가기
-     <blockquote> cd (폴더명) </blockquote>
-
-![Terminal_1](images/terminal_1.PNG)
+![Terminal_1](images/terminal_01.png)
 <br/><br/>
 
-#### 7. 이제 pycharm을 실행해 문제를 확인하고 과제를 해결합니다. 
-<br/><br/>
 
 # [내 컴퓨터에서 github로 업로드하기]
 
@@ -135,10 +130,15 @@
 <br/>
 <br/>
 
-# [playdata github로 Pull Request 요청하기 (과제제출하기)]
+# [playdata github로 Pull Request 요청하기 (퀴즈 답 제출하기)]
 
-#### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request'->'Create Pull Request' 버튼을 클릭합니다. (사진 넣어주세요!!!)
-<br/>
+#### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request'->'Create Pull Request' 버튼을 클릭합니다.
+![pull_request](images/pull_request.png)
+<br/> 
+![Create_Pull_request](images/Create_Pull_request.png)
+<br/> 
 
-#### 2. 제목에 과정명과 이름을 쓰고 'Create Pull Request'를 클릭합니다. (사진 넣어주세요!!!)
+#### 2. 제목에 이름_00번 퀴즈 정답이라고 쓰고 'Create Pull Request'를 클릭합니다.
+![naming](images/naming.png)
 <br/>
+![finished](images/finished.png)
