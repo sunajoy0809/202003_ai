@@ -124,11 +124,9 @@
 <br/>
 
 - 다섯번째, 내 GitHub로 가서 repository에 업데이트 된 내역을 확인해보세요.
-![your reposi](images/your reposi.PNG)
+![your_reposi](images/your reposi.PNG)
 
 ![202003_ai](images/202003_ai.PNG)
-
-![your reposi](images/your reposi.PNG)
 
 ![myfolder](images/myfolder.PNG)
 
