@@ -77,13 +77,17 @@ code .<br/>
 
 # 아래는 과제를 하고 내 컴퓨터에 있는 파일을 github로 옮기는 작업입니다.
 
+#### 먼저 Git에 대해 간단히 알아보겠습니다.
+#### 깃은 아래와 같은 흐름으로 이루어져 있습니다.
+![git](images/git.png)
 
-![git](images/git.jpg)
+#### 간단하게 이야기하면, 우리가 workspace에서 작업하여 파일이 변경되면 (추가, 수정, 삭제 등) add 라는 명령어로 index에 반영시킵니다.
+#### index에 commit 명령을 실행하면, local repository에 반영되고, 이 곳에 반영이 되어야 remote repository, 즉 온라인 github에 저장가능하게 됩니다. 이 때, push 라는 명령어로 remote repository에 업로드하게 됩니다
+#### remote repository, 즉 온라인 github에 있는 데이터를 내 컴퓨터로 가져올 때는 pull 이라는 명령어를 사용합니다.
+#### 아직은 무슨말인지 잘 이해가 안가실텐데요, 아래 적혀있는대로 따라해보면서 고민도 하고, 찾아보았으면 좋겠습니다.
 
-
-
-
-
+#### 상세한 내용은 https://www.opentutorials.org/course/2708 이곳에서 공부하셔도 좋습니다.
+#### 나중에 git 사용법은 특강이 있을 예정이니 너무 걱정마세요!
 
 
 # [commit하기] 
