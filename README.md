@@ -47,7 +47,7 @@
 - 세번째, 생성한 폴더로 이동하기
      <blockquote> cd playdata </blockquote>
 
-- 네번째, 내가 만든 폴더 내에 github에 있는 파일을 복사하기
+- 네번째, 내가 만든 폴더 내에 github에 있는 파일을 복사하기 (주소는 과제 가져오기 4번에서 복사한 주소를 사용합니다)
      <blockquote> git clone 복사한 주소 </blockquote>
 
 - 다섯번째, 복사된 폴더로 들어가기
