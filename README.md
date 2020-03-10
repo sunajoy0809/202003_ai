@@ -39,24 +39,21 @@
 #### 6. git Bash(terminal)에서 명렬어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다.
 
 - 첫번째, 바탕화면으로 이동하기 (cd 이동하고싶은폴더명)
-     <blockquote> cd Desktop/ </blockquote>
+     <blockquote> cd desktop </blockquote>
 
 - 두번째, 바탕화면에 폴더 만들기 (mkdir 만들고싶은폴더명)
      <blockquote> mkdir playdata </blockquote>
 
 - 세번째, 생성한 폴더로 이동하기
-     <blockquote> cd playdata/ </blockquote>
+     <blockquote> cd playdata </blockquote>
 
 - 네번째, 내가 만든 폴더 내에 github에 있는 파일을 복사하기
-     <blockquote> git clone (복사한 주소) </blockquote>
+     <blockquote> git clone 복사한 주소 </blockquote>
 
-- 다섯번째, 잘 복사되었는지 확인하기
-     <blockquote> ls </blockquote>
+- 다섯번째, 복사된 폴더로 들어가기
+     <blockquote> cd 202003_ai </blockquote>
 
-- 여섯번째, 복사된 폴더로 들어가기
-     <blockquote> cd (폴더명) </blockquote>
-
-![Terminal_1](images/terminal_1.PNG)
+![Terminal_1](images/terminal_01.PNG)
 <br/><br/>
 
 #### 7. 이제 pycharm을 실행해 문제를 확인하고 과제를 해결합니다. 
