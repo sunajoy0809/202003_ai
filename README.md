@@ -53,11 +53,9 @@
 - 다섯번째, 복사된 폴더로 들어가기
      <blockquote> cd 202003_ai </blockquote>
 
-![Terminal_1](images/terminal_01.)
+![Terminal_1](images/terminal_01.png)
 <br/><br/>
 
-#### 7. 이제 pycharm을 실행해 문제를 확인하고 과제를 해결합니다. 
-<br/><br/>
 
 # [내 컴퓨터에서 github로 업로드하기]
 
@@ -115,10 +113,15 @@
 <br/>
 <br/>
 
-# [playdata github로 Pull Request 요청하기 (과제제출하기)]
+# [playdata github로 Pull Request 요청하기 (퀴즈 답 제출하기)]
 
-#### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request'->'Create Pull Request' 버튼을 클릭합니다. (사진 넣어주세요!!!)
-<br/>
+#### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request'->'Create Pull Request' 버튼을 클릭합니다.
+![Pull_request](images/Pull_request.png)
+<br/> 
+![Create_Pull_request](images/Create_Pull_request.png)
+<br/> 
 
-#### 2. 제목에 과정명과 이름을 쓰고 'Create Pull Request'를 클릭합니다. (사진 넣어주세요!!!)
+#### 2. 제목에 이름_00번 퀴즈 정답이라고 쓰고 'Create Pull Request'를 클릭합니다.
+![naming](images/naming.png)
 <br/>
+![finished](images/finished.png)
