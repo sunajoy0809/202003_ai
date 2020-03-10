@@ -53,7 +53,7 @@ mkdir playdata<br/>
 cd playdata/<br/>
 <br/>
 
-내가 만든 폴더 내에 github에 있는 파일을 복사하기 (git clone 복사하고싶은github주소) <br/>
+내가 만든 폴더 내에 github에 있는 파일을 복사하기 <br/>
 git clone (복사한 주소)<br/>
 <br/>
 
@@ -64,9 +64,6 @@ ls <br/>
 복사된 폴더로 들어가기<br/>
 cd (폴더명)<br/>
 <br/>
-
-에디터 실행하기<br/>
-code .<br/>
 
 ![Terminal_1](images/terminal_1.jpg)
 <br/><br/>
