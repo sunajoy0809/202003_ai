@@ -41,19 +41,19 @@
 
 #### 6. terminal에서 명렬어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다.
 
-바탕화면으로 이동<br/>
+바탕화면으로 이동 (cd 이동하고싶은폴더명)<br/>
 cd Desktop/<br/>
 <br/>
 
-바탕화면에 폴더 만들기<br/>
+바탕화면에 폴더 만들기 (mkdir 만들고싶은폴더명)<br/>
 mkdir playdata<br/>
 <br/>
 
-생성한 폴더로 이동<br/>
+생성한 폴더로 이동 <br/>
 cd playdata/<br/>
 <br/>
 
-폴더 내에 과제를 복사하기<br/>
+내가 만든 폴더 내에 github에 있는 파일을 복사하기 (git clone 복사하고싶은github주소) <br/>
 git clone (복사한 주소)<br/>
 <br/>
 
