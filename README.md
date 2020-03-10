@@ -110,18 +110,18 @@ cd Desktop/<br/>
 
 #### 4. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 업로드를 해보겠습니다. (각 번호별로 사진 넣어주세요!!!)
 
-첫번째, 먼저 내가 만든 파일을 index 하겠습니다.
-<blockquote> git add gitTest.py </blockquote>
+- 첫번째, 먼저 내가 만든 파일을 index 하겠습니다.
+     <blockquote> git add gitTest.py </blockquote>
 
-두번째, 다시한번 git status로 로컬저장소의 상태를 확인해봅니다.
+- 두번째, 다시한번 git status로 로컬저장소의 상태를 확인해봅니다.
 
-세번째, 다음은 index된 파일을 commit하여 local repository에 기록하겠습니다.
-<blockquote> git commit -m "메세지를 입력해주세요" </blockquote>
+- 세번째, 다음은 index된 파일을 commit하여 local repository에 기록하겠습니다.
+     <blockquote> git commit -m "메세지를 입력해주세요" </blockquote>
 
-네번째, 여기까지 잘 오셨다면, 이제 내 온라인 github에 한번 업로드해보겠습니다.
-<blockquote> git puch origin master </blockquote>
+- 네번째, 여기까지 잘 오셨다면, 이제 내 온라인 github에 한번 업로드해보겠습니다.
+     <blockquote> git puch origin master </blockquote>
 
-다섯번째, GitHub에서 repository에 업데이트 된 내역을 확인하세요. (사진 넣어주세요!!!)
+- 다섯번째, GitHub에서 repository에 업데이트 된 내역을 확인하세요. (사진 넣어주세요!!!)
 
 # [playdata github로 Pull Request 요청하기 (과제제출하기)]
 
