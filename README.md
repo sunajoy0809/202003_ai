@@ -46,7 +46,9 @@ cd Desktop/<br/>
 <br/>
 
 바탕화면에 폴더 만들기 (mkdir 만들고싶은폴더명)<br/>
+<blockquote>
 mkdir playdata<br/>
+</blockquote>
 <br/>
 
 생성한 폴더로 이동 <br/>
