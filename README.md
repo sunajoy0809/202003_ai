@@ -7,13 +7,13 @@
 3. git 설치
 4. github 회원 가입
 5. github내 encore-playdata/202003_ai의 repository를 Clone하기
-6. 과제작성 후 pull request하기
+6. 퀴즈 답안 작성 후 pull request하기
 
 ##### 플레이데이터 깃허브에 pull request 해주시면 확인 후 업데이트 해드립니다.
 ##### 처음엔 git을 사용하는 방법이 생소하겠지만, 실무에서 꼭 필요한 도구이니 많이 사용해보시기 바랍니다.
 <br/><br/>
 
-# [과제 가져오기] 
+# [퀴즈 가져오기] 
 
 #### 1. Github 회원가입을 아직 하지 않은 분들은 우측 상단에서 회원가입을 먼저 해주세요. 
 <br/><br/>
@@ -36,7 +36,7 @@
 ![Gitbash](images/gitbash.png)
 <br/><br/>
 
-#### 6. git Bash(terminal)에서 명어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다.
+#### 6. git Bash(terminal)에서 명어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다. (**아래 순서대로 진행한 후 퀴즈 답안을 제출할 때까지 Git Bash를 끄지말고 진행해주세요! 중간에 끄시면 6번의 순서를 다시 진행하셔야 합니다.)
 
 - 첫번째, 바탕화면으로 이동하기 (cd 이동하고싶은폴더명)
      <blockquote> cd desktop </blockquote>
@@ -83,13 +83,13 @@
 
 <br/>
 
-#### 1. 우선 pycharm을 키고 open을 눌러 C:\Users\자신의컴퓨터명\Desktop\playdata ok 버튼을 누른다.
+#### 1. 우선 pycharm을 키고 open을 클릭한 후, C:\Users\자신의컴퓨터명\Desktop\playdata ok 버튼을 클릭합니다.
 ![open](images/cap1.PNG)
 
-#### 2. 왼쪽 폴더 리스트에서 자신의 이름 폴더를 찾은 후 아래 순서대로 진행하면 됩니다.
+#### 2. 왼쪽 폴더 리스트에서 자신의 이름 폴더를 찾습니다. 이름 폴더에서 마우스 우클릭을 하여 New -> Python File을 클릭합니다.
 ![folderlist1](images/cap2.PNG)
 
-#### 3. 먼저, pycharm으로 gitTest.py를 만들어 저장합니다.
+#### 3. 먼저, pycharm으로 gitTest.py를 만들어 저장합니다. 이때 파일명(gitTest)은 퀴즈명과 번호를 지정하여 저장해줍니다.
 ![cap3](images/cap3.PNG)
 ![cap4](images/cap4.PNG)
 <br/>
@@ -99,19 +99,19 @@
 <blockquote> print("hello github!") </blockquote>
 <br/>
 
-#### 5. gitTest.py가 있는 폴더에서 "git status"를 입력합니다.
+#### 5. 다시 Git Bash로 가보겠습니다. gitTest.py가 있는 폴더에서 "git status"를 입력합니다.
 ![cap6](images/cap6.png)
 - cd 자신의이름 폴더명
 - git status 명령어는 로컬저장소의 상태를 확인할 수 있습니다.
 <br/>
 
-#### 6. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 업로드를 해보겠습니다.
+#### 6. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 작성한 퀴즈 답안을 업로드 해보겠습니다.
 
 - 첫번째, 먼저 내가 만든 파일을 index 하겠습니다.
 ![cap7](images/cap7.PNG)
 <br/>
 
-- 두번째, 다시한번 git status로 로컬저장소의 상태를 확인해봅니다.
+- 두번째, 다시 한 번 git status로 로컬저장소의 상태를 확인해봅니다.
 ![cap10](images/cap10.PNG)
 <br/>
 
@@ -147,3 +147,7 @@
 ![naming](images/naming.png)
 <br/>
 ![finished](images/finished.png)
+
+여기까지 문제없이 잘 하셨다면, 퀴즈 제출 완료!
+이제 동일한 방법으로 다음 퀴즈를 풀고 제출해주시면 됩니다.
+참 쉽죠?
